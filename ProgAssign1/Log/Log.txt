@@ -1,0 +1,5 @@
+Log Entry: 10/24/2024 11:40:51 PM
+Total Execution Time: 150.9911934 seconds
+Total Valid Rows: 201075
+Total Skipped Rows: 81834
+--------------------------------------------

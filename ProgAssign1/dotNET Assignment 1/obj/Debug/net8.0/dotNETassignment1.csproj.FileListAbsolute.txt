@@ -1,0 +1,14 @@
+C:\Users\srira\source\repos\dotNET Assignment 1\dotNET Assignment 1\obj\Debug\net8.0\dotNETassignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srira\source\repos\dotNET Assignment 1\dotNET Assignment 1\obj\Debug\net8.0\dotNETassignment1.AssemblyInfoInputs.cache
+C:\Users\srira\source\repos\dotNET Assignment 1\dotNET Assignment 1\obj\Debug\net8.0\dotNETassignment1.AssemblyInfo.cs
+C:\Users\srira\source\repos\dotNET Assignment 1\dotNET Assignment 1\obj\Debug\net8.0\dotNETassignment1.csproj.CoreCompileInputs.cache
+C:\Users\srira\source\repos\dotNET Assignment 1\dotNET Assignment 1\bin\Debug\net8.0\dotNETassignment1.exe
+C:\Users\srira\source\repos\dotNET Assignment 1\dotNET Assignment 1\bin\Debug\net8.0\dotNETassignment1.deps.json
+C:\Users\srira\source\repos\dotNET Assignment 1\dotNET Assignment 1\bin\Debug\net8.0\dotNETassignment1.runtimeconfig.json
+C:\Users\srira\source\repos\dotNET Assignment 1\dotNET Assignment 1\bin\Debug\net8.0\dotNETassignment1.dll
+C:\Users\srira\source\repos\dotNET Assignment 1\dotNET Assignment 1\bin\Debug\net8.0\dotNETassignment1.pdb
+C:\Users\srira\source\repos\dotNET Assignment 1\dotNET Assignment 1\obj\Debug\net8.0\dotNETassignment1.dll
+C:\Users\srira\source\repos\dotNET Assignment 1\dotNET Assignment 1\obj\Debug\net8.0\refint\dotNETassignment1.dll
+C:\Users\srira\source\repos\dotNET Assignment 1\dotNET Assignment 1\obj\Debug\net8.0\dotNETassignment1.pdb
+C:\Users\srira\source\repos\dotNET Assignment 1\dotNET Assignment 1\obj\Debug\net8.0\dotNETassignment1.genruntimeconfig.cache
+C:\Users\srira\source\repos\dotNET Assignment 1\dotNET Assignment 1\obj\Debug\net8.0\ref\dotNETassignment1.dll
